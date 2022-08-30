@@ -1,0 +1,28 @@
+section h2 {    
+    font-size: 25px;
+    color: #920162;
+    padding: 15px 0px 0px 0px;
+}
+
+.novedades img {
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-right: 2%;
+    vertical-align: middle;
+}
+
+section h3 {
+    border-bottom: 1px solid #a80070;
+    color: #3a0027;
+    background-image: linear-gradient(#a80070, #a80070);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+    margin-top: 30px;
+}
+
+section h3:hover {
+    background-size: 100% 1px;
+}
